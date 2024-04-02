@@ -63,5 +63,6 @@ E.prototype = {
   }
 };
 
+E.default = E;
 module.exports = E;
 module.exports.TinyEmitter = E;
